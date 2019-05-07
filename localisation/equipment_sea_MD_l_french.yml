@@ -1,0 +1,176 @@
+﻿l_french:
+ cold_war_ship_design:0 "Conception de Navire de la Guerre Froide"
+ cold_war_ship_design_desc:0 "En apprenant les erreurs de la construction navale pendant les guerres mondiales, nous devrions être en mesure de penser à de nouveaux types de navires pour l’avenir."
+ carrier_nuclear_reactor:0 "Porte-avions à Réaction Nucléaire"
+ carrier_nuclear_reactor_desc:0 "La portée d'un porte-avions est limitée. En utilisant des réacteurs nucléaires, nous devrions être en mesure de dominer plus efficacement la haute mer."
+ carrier_advanced_ramp_system:0 "Système de Rampe Avancé pour Porte-Avions"
+ carrier_advanced_ramp_system_desc:0 "La piste des porte-avions est un problème. En appliquant une rampe plus ergonomique au bout de la piste, nous devrions pouvoir stocker davantage d’avions dessus."
+ carrier_catapult:0 "Catapulte pour Porte-Avions"
+ carrier_catapult_desc:0 "Bien que les rampes nous aient déjà servis dans le passé, nos scientifiques pensent que l’utilisation de systèmes permettant de lancer activement des avions dans les airs pourrait accroître les capacités de notre transporteur de stocker des avions."
+ submarine_nuclear_reactor:0 "Sous-Marin à Réaction Nucléaire"
+ submarine_nuclear_reactor_desc:0 "Si nous installions des réacteurs nucléaires à bord de nos futurs sous-marins, nous pourrions augmenter considérablement leur portée."
+ submarine_cold_war_torpedo:0 "Torpille de la Guerre Froide"
+ submarine_modern_torpedo:0 "Torpille Moderne"
+ submarine_future_torpedo:0 "Torpille Futuriste"
+ frigate_1:0 "Frégate I"
+ frigate_2:0 "Frégate II"
+ frigate_3:0 "Frégate III"
+ frigate_4:0 "Frégate IV"
+ frigate_5:0 "Frégate V"
+ frigate_6:0 "Frégate VI"
+ corvette_1:0 "Corvette I"
+ corvette_2:0 "Corvette II"
+ corvette_3:0 "Corvette III"
+ corvette_4:0 "Corvette IV"
+ corvette_5:0 "Corvette V"
+ corvette_6:0 "Corvette VI"
+ destroyer_1:0 "Destroyer I" #1960
+ destroyer_2:0 "Destroyer II" #1980
+ destroyer_3:0 "Destroyer III" #2000
+ destroyer_4:0 "Destroyer IV" #2008
+ destroyer_5:0 "Destroyer V" #2020
+ destroyer_6:0 "Destroyer VI" #2030
+ missile_cruiser_1:0 "Croiseur Lance-Missiles I" #1960
+ missile_cruiser_2:0 "Croiseur Lance-Missiles II" #2000
+ missile_cruiser_3:0 "Croiseur Lance-Missiles III" #2006
+ missile_cruiser_4:0 "Croiseur Lance-Missiles IV" #2010
+ missile_cruiser_5:0 "Croiseur Lance-Missiles V" #2020
+ missile_cruiser_6:0 "Croiseur Lance-Missiles VI" #2030
+ carrier_1:0 "Porte-Avions I" #1960
+ carrier_2:0 "Porte-Avions II" #1980
+ carrier_3:0 "Porte-Avions III" #2004
+ carrier_4:0 "Porte-Avions IV" #2012
+ carrier_5:0 "Porte-Avions V" #2018
+ carrier_6:0 "Porte-Avions VI" #2030
+ LHD_1:0 "Navire d'Assaut Amphibien I"
+ LHD_1_desc:0 "Navire d'Assaut Amphibien I"
+ LHD_2:0 "Navire d'Assaut Amphibien II"
+ LHD_3:0 "Navire d'Assaut Amphibien III"
+ LHD_4:0 "Navire d'Assaut Amphibien IV"
+ LHD_5:0 "Navire d'Assaut Amphibien V"
+ submarine_1:0 "Sous-Marin I" #1960
+ submarine_2:0 "Sous-Marin II" #1980
+ submarine_3:0 "Sous-Marin III" #2006
+ submarine_4:0 "Sous-Marin IV" #2014
+ submarine_5:0 "Sous-Marin V" #2025
+ submarine_6:0 "Sous-Marin VI" #2030
+ ABK_corvette_1:0 "Project 1204 Shmel"
+ ALB_corvette_1:0 "Damen Stan 4207"
+ ALB_corvette_2:0 "Super Speranza"
+ ALB_corvette_3:0 "Classe 2002"
+ ALG_corvette_2:0 "Nanuchka II"
+ ALG_frigate_1:0 "MEKO A200"
+ ALG_frigate_2:0 "C28A"
+ ALG_submarine_1:0 "Kilo Class 636M"
+ ALG_submarine_2:0 "Kilo Class 877EKM"
+ ANG_corvette_1:0 "Argos class"
+ ANG_corvette_2:0 "Zhuk class"
+ ANG_frigate_1:0 "OSA II"
+ ANG_frigate_2:0 "Shershen class"
+ ANT_corvette_1:0 "380X"
+ ARG_corvette_1:0 "Baradero class"
+ ARG_corvette_2:0 "D'Estienne d'Orves class"
+ ARG_destroyer_1:0 "Hercules class"
+ ARG_destroyer_2:0 "Almirante Brown class"
+ ARG_frigate_2:0 "Espora class"
+ AST_corvette_1:0 "Huon class"
+ AST_corvette_2:0 "Armidale class"
+ AST_frigate_2:0 "Anzac class"
+ AST_frigate_3:0 "Adelaide class"
+ AST_submarine_2:0 "Collins class"
+ BEL_corvette_1:0 "Tripartite class"
+ BEL_corvette_2:0 "Castor class"
+ BEL_frigate_1:0 "Karel Doorman class"
+ BHM_corvette_1:0 "Damen Stan class"
+ BHM_corvette_2:0 "Bahamas class"
+ BNG_corvette_1:0 "Padma"
+ BNG_corvette_2:0 "Durjoy"
+ BNG_corvette_3:0 "Type-056"
+ BNG_submarine_3:0 "Ming class"
+ DEN_frigate_1:0 "Thetis Klasse"
+ DEN_frigate_2:0 "Absalon Klasse"
+ DEN_frigate_3:0 "Iver Huitfeldt Klasse"
+ GER_destroyer_1:0 "Hamburg-Klasse"
+ GER_destroyer_2:0 "Brandenburg-Klasse"
+ GER_destroyer_3:0 "Sachsen-Klasse"
+ GER_destroyer_4:0 "Baden-Württemberg-Klasse"
+ GER_destroyer_5:0 "Bayern-Klasse"
+ GER_destroyer_6:0 "Westfalen-Klasse"
+ GER_light_cruiser_1:0 "Jaguar-Klasse"
+ GER_light_cruiser_2:0 "Tiger-Klasse"
+ GER_light_cruiser_3:0 "Puma-Klasse"
+ GER_light_cruiser_4:0 "Panther-Klasse"
+ GER_light_cruiser_5:0 "Löwe-Klasse"
+ GER_light_cruiser_6:0 "Jagulep-Klasse"
+ GER_missile_cruiser_1:0 "Berlin-Klasse"
+ GER_missile_cruiser_2:0 "Stuttgart-Klasse"
+ GER_missile_cruiser_3:0 "Barbarossa-Klasse"
+ GER_missile_cruiser_4:0 "Wilhelm-Klasse"
+ GER_missile_cruiser_5:0 "Luther-Klasse"
+ GER_missile_cruiser_6:0 "Guttenberg-Klasse"
+ GER_carrier_1:0 "Stresemann-Klasse"
+ GER_carrier_2:0 "Adenauer-Klasse"
+ GER_carrier_3:0 "Vaterland-Klasse"
+ GER_carrier_4:0 "Kaiser-Klasse"
+ GER_carrier_5:0 "Europa-Klasse"
+ GER_carrier_6:0 "Deutschland-Klasse"
+ GER_submarine_1:0 "U9-Klasse"
+ GER_submarine_2:0 "U13-Klasse"
+ GER_submarine_3:0 "U31-Klasse"
+ GER_submarine_4:0 "Tiefenjäger-Klasse"
+ GER_submarine_5:0 "Todesbringer-Klasse"
+ GER_submarine_6:0 "Eisenherz-Klasse"
+ USA_destroyer_1:0 "Charles F. Adams Class"
+ USA_destroyer_2:0 "Spruance Class"
+ USA_destroyer_3:0 "Arleigh Burke Class"
+ USA_destroyer_4:0 "Zumwalt Class"
+ USA_destroyer_5:0 "Washington Class"
+ USA_destroyer_6:0 "California Class"
+ USA_frigate_1:0 "Brooke-Class"
+ USA_frigate_2:0 "Oliver Hazard Perry Class"
+ USA_frigate_3:0 "Freedom Class"
+ USA_frigate_4:0 "Frigate IV"
+ USA_frigate_5:0 "Independence Class"
+ USA_frigate_6:0 "Frigate VI"
+ USA_light_cruiser_1:0 "Pegasus Class"
+ USA_light_cruiser_2:0 "Cyclone Class"
+ USA_light_cruiser_3:0 "Tornado Class"
+ USA_light_cruiser_4:0 "Hurricane Class"
+ USA_light_cruiser_5:0 "Thunderstorm Class"
+ USA_light_cruiser_6:0 "Tsunami Class"
+ USA_missile_cruiser_1:0 "Leahy Class"
+ USA_missile_cruiser_2:0 "Ticonderoga Class"
+ USA_missile_cruiser_3:0 "CG(X) Class"
+ USA_missile_cruiser_4:0 "Miami Class"
+ USA_missile_cruiser_5:0 "Houston Class"
+ USA_missile_cruiser_6:0 "Ulysses Class"
+ USA_carrier_1:0 "Kitty Hawk Class"
+ USA_carrier_2:0 "Nimitz Class"
+ USA_carrier_3:0 "Gerald R. Ford Class"
+ USA_carrier_4:0 "Enterprise Class"
+ USA_carrier_5:0 "Roosevelt Class"
+ USA_carrier_6:0 "Puerto Rico Class"
+ USA_submarine_1:0 "James Madison Class"
+ USA_submarine_2:0 "Los Angeles Class"
+ USA_submarine_3:0 "Virginia Class"
+ USA_submarine_4:0 "Texas Class"
+ USA_submarine_5:0 "Dakota Class"
+ USA_submarine_6:0 "Hearts of Iron Class"
+ TUR_frigate_1:0 "Knox-class" #1960
+ TUR_frigate_2:0 "Oliver Hazard Perry-class" #2000
+ TUR_frigate_3:0 "MEKO 200 TN-IIA" #2002
+ TUR_frigate_4:0 "Gabya/GENESIS-class"
+ TUR_frigate_5:0 "Istanbul-class"
+ TUR_frigate_6:0 "TF-2000-class"
+ TUR_corvette_1:0 "Kılıç-class" #1960
+ TUR_corvette_2:0 "Kılıç II-class" #1980
+ TUR_corvette_3:0 "Burak-class" #2002
+ TUR_corvette_4:0 "Ada-class" #2006
+ TUR_carrier_5:0 "Anadolu-class LHD" #2018
+ TUR_carrier_6:0 "Carrier VI" #2030
+ TUR_submarine_1:0 "Tang-class" #1960
+ TUR_submarine_2:0 "Type 209" #1980
+ TUR_submarine_3:0 "Type 209T2" #2006
+ TUR_submarine_4:0 "Reis-class" #2014
+ TUR_submarine_5:0 "Submarine V" #2025
+ TUR_submarine_6:0 "Submarine VI" #2030
