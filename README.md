@@ -2,7 +2,7 @@
 Millennium Dawn : Traduction Française
 
 Comment installer :
-- Cliquer sur "Clone and Download" puis sur "Download ZIP"
+- Cliquer sur "Clone or download" puis sur "Download ZIP"
 - Extraire le fichier
 - Aller dans le dossier "NEW" puis copier-coller le fichier "localisation" vers le dossier du mod
 
