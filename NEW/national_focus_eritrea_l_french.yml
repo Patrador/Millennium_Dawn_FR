@@ -1,0 +1,15 @@
+﻿l_french:
+ #Invite Foreign Investors Tree
+ ERI_eritrea_puppet_federation:0 "La deuxième fédération"
+ ERI_eritrea_puppet_federation_desc:0 "Pour la deuxième fois dans notre histoire, nous sommes soumis à l'Éthiopie. La première fois, ça n'a pas fonctionné, mais peut-être que cette fois si ?"
+ ERI_eritrea_puppet_federation_assembly:0 "Assemblée des représentants érythréens"
+ ERI_eritrea_puppet_federation_assembly_desc:0 "WIP"
+ ERI_eritrea_puppet_federation_constitution:0 "Écrire une constitution"
+ ERI_eritrea_puppet_federation_constitution_desc:0 "WIP"
+ ERI_eritrea_puppet_federation_appoint_chief_executive:0 "Nommer le directeur général"
+ ERI_eritrea_puppet_federation_appoint_chief_executive_desc:0 "Il est temps de voter pour notre représentant officiel en remplacement du gouvernement de transition actuel. Bien qu’ils fussent à nouveau dans une fédération avec l’Éthiopie, nous avons besoin d’un homme fort au sommet pour défendre nos droits."
+ appoint_chief_executive_tt:0 "§YUn nouveau directeur général sera nommé.§"
+ ERI_eritrea_puppet_federation_christian:0 "Directeur Général Ahmed Nasser"
+ ahmed_nasser_cf:0 "Ahmed Nasser est le nouveau directeur général"
+ ERI_eritrea_puppet_federation_muslim:0 "Directeur général Hussein Kelifay"
+ hussein_kelifay_cf:0 "Hussein Kelifay est le nouveau directeur général"
