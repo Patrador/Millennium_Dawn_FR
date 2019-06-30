@@ -1,24 +1,24 @@
 ﻿ l_french:
 
  ### Custom tooltips ###
- TT_CURRENT_LEADER_DIES:0 "§R[ROOT.GetLeader] dies!§!"
+ TT_CURRENT_LEADER_DIES:0 "§R[ROOT.GetLeader] est mort !§!"
  
  ######Generic Events###########
- md4.1.t:0 "[From.GetName]-[Root.GetName] Free Trade Agreement"
- md4.1.d:0 "[From.GetNameDef] is offering us a free trade agreement. We will have priority to export to and import from them."
- md4.1.a:0 "Sign it!"
- md4.1.b:0 "Refuse."
- md4.2.t:0 "[From.GetNameDef] Has Signed a Free Trade Agreement with Us"
- md4.2.d:0 "[From.GetNameDef] has accepted our offer to sign a free trade agreement. It will enter into force immediately."
- md4.2.a:0 "It will make both of us prosperous!"
- md4.3.t:0 "[From.GetNameDef] Has Refused to Sign a Free Trade Agreement with Us"
- md4.3.d:0 "[From.GetNameDef] has refused our offer to sign a free trade agreement."
- md4.3.a:0 "They fear our superior products!"
- md4.4.t:0 "[From.GetName]-[Root.GetName] Military Cooperation Treaty"
- md4.4.d:0 "[From.GetNameDef] is offering us a military cooperation treaty. We will sell them equipment at a discounted price but this will make them more likely of buying from us instead of buying from our competitors."
- md4.4.a:0 "Sign it!"
- md4.4.b:0 "Refuse."
- md4.5.t:0 "[From.GetNameDef] Has Signed a Military Cooperation Treaty with Us"
+ md4.1.t:0 "Accord de libre-échange [From.GetName]-[Root.GetName]"
+ md4.1.d:0 "[From.GetNameDef] nous offre un accord de libre-échange. Nous aurons la priorité d’exporter et d’importer de chez eux."
+ md4.1.a:0 "Signer."
+ md4.1.b:0 "Refuser."
+ md4.2.t:0 "[From.GetNameDef] a signé un accord de libre-échange avec nous"
+ md4.2.d:0 "[From.GetNameDef] a accepté notre offre de signer un accord de libre-échange. Il entrera en vigueur immédiatement."
+ md4.2.a:0 "Cela nous rendra tous les deux prospères !"
+ md4.3.t:0 "[From.GetNameDef] a refusé de signer un accord de libre-échange avec nous"
+ md4.3.d:0 "[From.GetNameDef] a refusé notre offre de signer un accord de libre-échange."
+ md4.3.a:0 "Ils craignent nos produits de qualité supérieure !"
+ md4.4.t:0 "Traité de coopération militaire [From.GetName]-[Root.GetName]"
+ md4.4.d:0 "[From.GetNameDef] nous offre un traité de coopération militaire. Nous leur vendrons du matériel à un prix réduit, mais cela les incitera davantage à acheter chez nous plutôt que chez nos concurrents."
+ md4.4.a:0 "Signer."
+ md4.4.b:0 "Refuser."
+ md4.5.t:0 "[From.GetNameDef] a signé avec nous un traité de coopération militaire"
  md4.5.d:0 "[From.GetNameDef] has accepted our offer to sign a military cooperation treaty. It will enter into force immediately."
  md4.5.a:0 "It will make both of us strong!"
  md4.6.t:0 "[From.GetNameDef] Has Refused to Sign a Military Cooperation Treaty with Us"
@@ -94,7 +94,7 @@
  generic.7.d:0 "[alliance_applicant.GetName] has decided to reject our offer to join the [alliance_inviter.GetFactionName]. We will have to make do without their help."
  generic.7.a:0 "Our help is not wanted."
 
- # from here until ///// is copied from events_l_french.yml
+ # from here until ///// is copied from events_l_english.yml
  # felt like leaving a not for bug tracking -ahmex
 
  ace_promoted.1.t:0 "Ace Pilot Promoted"
@@ -480,7 +480,7 @@
  GAME_OVER_TT:0 "§RThe game will end for you.§!"
  CAN_ANGERED_WORKERS:0 "This will upset the population"
  excellent:0 "Excellent."
- unfortunate:0 "Unfortunate."
+ unfortunate:0 "Regrettable."
 
  # /////
 
