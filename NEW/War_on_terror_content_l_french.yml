@@ -1,11 +1,11 @@
 ﻿l_french:
  ##### WAR ON TERROR ####
  #Tool tips
- TT_OEF_SPENDING_REQUIREMENT:0 "We need at least $0.5 §Hbillion§! in our treasury!"
- TT_OEF_SPENDING_MINUS_0.5:0 "Subtract $0.5 §Hbillion§! from our treasury\n"
- TT_REDUCE_RULING_COALITION_POPULARITY_10_PERCENT:0 "§RThe ruling party and all coalition members will lose 10% relative popularity!\n§!"
- TT_OEF_INCREASED_CHANCE_OF_DETECTING_TERRORISTS:0 "§GThis will increase the likelihood of discovering a terrorist plot!\n§!"
- TT_OEF_RAISE_POPULARITIES:0 "Raise the popularity of the §HRuling Coalition§! by 10% and the popularity of the main §HOpposition Party§! by 5%"
+ TT_OEF_SPENDING_REQUIREMENT:0 "Il nous faut au moins $0.5 §Hmilliard§! dans notre trésorerie !"
+ TT_OEF_SPENDING_MINUS_0.5:0 "Soustraire $0.5 §Hmilliard§! de notre trésorerie\n"
+ TT_REDUCE_RULING_COALITION_POPULARITY_10_PERCENT:0 "§RLe parti au pouvoir et tous les membres de la coalition perdront 10% de popularité relative !\n§!"
+ TT_OEF_INCREASED_CHANCE_OF_DETECTING_TERRORISTS:0 "§GCela augmentera la probabilité de découvrir un complot terroriste !\n§!"
+ TT_OEF_RAISE_POPULARITIES:0 "Accroître la popularité de la §Hcoalition au pouvoir§! par 10% et la popularité du principal §Hparti d'opposition§! par 5%"
  TT_OEF_LOWER_POPULARITIES:0 "Reduce the popularity of the §HRuling Coalition§! by 5% and the popularity of the main §HOpposition Party§! by 10%"
  TT_OEF_WAR_ON_TERROR_SPEECH_HELD:0 "The War on Terror -speech has been held"
  USA_enduring_freedom:0 "Operation Enduring Freedom"
