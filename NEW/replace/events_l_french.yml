@@ -1,7 +1,7 @@
 ﻿ l_french:
 
  ### Custom tooltips ###
- TT_CURRENT_LEADER_DIES:0 "§R[ROOT.GetLeader] est mort[ROOTGetXEDir] !§!"
+ TT_CURRENT_LEADER_DIES:0 "§R[ROOT.GetLeader] est mort[ROOT.GetXEDir] !§!"
  
  ######Generic Events###########
  md4.1.t:0 "Accord de libre-échange [From.GetName]-[Root.GetName]"
@@ -767,15 +767,15 @@
  MD4_election.5.a:0 "[show_biggest_party_elect] ([show_biggest_elect_percentage]) will try"
  MD4_election.5.b:0 "[show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]) will try"
  
- News_MD4_election.0.t:0 "Élection [From.GetAdjFS] : [From.GetLeader] est réélu"
+ News_MD4_election.0.t:0 "Élection [From.GetAuEnANP]] [From.GetName] : [From.GetLeader] est réélu"
  News_MD4_election.0.d:0 "[From.GetLeader] [From.GetDuDelaDelPartiPouv] [From.GetRulingParty] ([From.GetRulingIdeology]) a vaincu tous les candidats, et poursuivra un autre mandat en tant que président [From.GetAdjMS]."
  News_MD4_election.0.a:0 "D'accord"
  
- News_MD4_election.1.t:0 "Élection [From.GetAdjFS] : [From.GetLeader] forme un nouveau gouvernement"
+ News_MD4_election.1.t:0 "Élection [From.GetAuEnANP]] [From.GetName] : [From.GetLeader] forme un nouveau gouvernement"
  News_MD4_election.1.d:0 "[From.GetLeader] [From.GetDuDelaDelPartiPouv] [From.GetRulingParty] ([From.GetRulingIdeology]) est sorti gagnant des élections, et avec l'appui d'autres partis au sein du gouvernement est maintenant chargé de faire avancer [From.GetLeLaLNP] [From.GetName]."
  News_MD4_election.1.a:0 "D'accord"
  
- News_MD4_election.2.t:0 "Élection [From.GetAdjFS] : [From.GetLeader] gagne dans la surprise !"
+ News_MD4_election.2.t:0 "Élection [From.GetAuEnANP]] [From.GetName] : [From.GetLeader] gagne dans la surprise !"
  News_MD4_election.2.d:0 "[From.GetLeader] [From.GetDuDelaDelPartiPouv] [From.GetRulingParty] ([From.GetRulingIdeology]) a réussi ce qui semblait impossible en battant à lui seul le gouvernement en place. La formation d'un gouvernement majoritaire à lui seul a été victorieuse aux élections, et il est maintenant chargé de faire avancer [From.GetLeLaLNP] [From.GetName]."
  News_MD4_election.2.a:0 "D'accord"
  
