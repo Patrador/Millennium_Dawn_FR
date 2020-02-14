@@ -1,0 +1,13 @@
+﻿l_french:
+ TT_GENERIC_GAIN_5_INFLUENCE:"Nous gagnerons §G5§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_GAIN_10_INFLUENCE:"Nous gagnerons §G10§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_GAIN_20_INFLUENCE:"Nous gagnerons §G20§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_GAIN_30_INFLUENCE:"Nous gagnerons §G30§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_GAIN_40_INFLUENCE:"Nous gagnerons §G40§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_GAIN_50_INFLUENCE:"Nous gagnerons §G50§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_LOSE_5_INFLUENCE:"Nous perdrons §R5§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_LOSE_10_INFLUENCE:"Nous perdrons §R10§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_LOSE_20_INFLUENCE:"Nous perdrons §R20§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_LOSE_30_INFLUENCE:"Nous perdrons §R30§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_LOSE_40_INFLUENCE:"Nous perdrons §R40§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"
+ TT_GENERIC_LOSE_50_INFLUENCE:"Nous perdrons §R50§! d'§Yinfluence§! sur [THIS.GetLeLaLNP] [THIS.GetName]\n"

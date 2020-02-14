@@ -4,3 +4,20 @@
  PENINSULA_SHIELD:0 "Bouclier de la Péninsule"
  RESISTANCE_AXIS:0 "Axe de Résistance"
  SHANGHAI_PACT:0 "Pacte de Shanghai"
+ 
+ #English Factions
+ british_commonwealth:0 "Le Commonwealth"
+ british_alliance:0 "Alliance anglo-saxonne"
+ 
+ #Ukraine
+ UKR_baltic_black_sea_union_faction:0 "Union de mer Baltique - mer Noire"
+
+ #United States 
+ monroe_alliance:0 "Alliance Monroe"
+ freedom_league:0 "Ligue de la liberté"
+ washington_pact:0 "Pacte de Washington"
+ 
+ #Japan
+ japanese_alliance_democratic:0 "Alliance de l'Asie de l'Est"
+ east_asian_pact:0 "Pacte d'Asie de l'Est"
+ japanese_alliance_communist:0 "Sphère rouge de prospérité"

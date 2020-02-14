@@ -1,4 +1,6 @@
 ﻿l_french:
+ swiss_alliance:0 "Swiss Protection League"
+ 
  SWI_strengthen_the_government:0 "Strengthen the Government"
  SWI_strengthen_the_government_desc:0 "To begin to make the reforms and changes necessary to our nation, we will need to strengthen our administration."
  #Join the UN Tree
@@ -6,8 +8,8 @@
  SWI_join_the_united_nations_desc:0 "Switzerland has so far decided to not become a full-on member of the UN, choosing instead to remain an observer state. The population wishes for that to change now. Switzerland should hold a referendum and then confirm its ascension to full UN membership."
  SWI_economic_independence:0 "Economic Independence"
  SWI_economic_independence_desc:0 "We must ensure that we are reliant on ourselves and only ourselves for our economic security."
- SWI_seek_eu_membership:0 "Seek EU Membership"
- SWI_seek_eu_membership_desc:0 "We must integrate more with our fellow Europeans. Joining the EU will go a long way to do that."
+ SWI_seek_eu_membership:0 "Closer Ties with EU"
+ SWI_seek_eu_membership_desc:0 "We must integrate more with our fellow Europeans. We will get an investment from the EU."
  SWI_strengthen_the_fdfa:0 "Strengthen the FDFA"
  SWI_strengthen_the_fdfa_desc:0 "To ensure we have all of our options open when dealing with different states, we should strengthen our foreign affairs department."
  SWI_strengthen_the_fdha:0 "Stengthen the FDHA"
@@ -37,7 +39,7 @@
  SWI_invite_austria:0 "Invite Austria"
  SWI_invite_austria_desc:0 "We have a lot in common with Austria, so it would make sense to foster this bond of kinship. Let us extend an invitation into our alliance to them."
  SWI_nato_investments:0 "NATO Investments"
- SWI_nato_investments_desc:0 "NATO as an alliance has some of the richest and most powerful nations in the world as members. We should begin investment into their economies immediately."
+ SWI_nato_investments_desc:0 "NATO as an alliance has some of the richest and most powerful nations in the world as members. We will receive economic and military help in a regular basis."
  SWI_seek_nato_membership:0 "Seek NATO Membership"
  SWI_seek_nato_membership_desc:0 "All of our neighbors who harbor a semblance of power have joined the military alliance, NATO. We should follow in their footsteps to better exert our power."
  SWI_european_arms_exports:0 "European Arms Exports"
@@ -123,3 +125,19 @@
  SWI_western_air_bases_desc:0 "With the addition of this airbase, we will increase the areas that we can strike even further."
  SWI_southern_air_bases:0 "Southern Air Bases"
  SWI_southern_air_bases_desc:0 "We must ensure we cover every strategic area in and around our nation."
+ 
+ ##Rafael New
+ 
+ SWI_european_tank_license:0 "European Tank License"
+ SWI_european_tank_license_desc:0 "The members of the European Union have pretty advanced tanks, those which could be useful for our use."
+ SWI_adopt_euro:0 "Adopt The Euro"
+ SWI_adopt_euro_desc:0 "By adopting the euro, our economy should grow in a constant way, attracting more immigrants and investors to our nation."
+ SWI_peace_at_switzerland:0 "Peace For Switzerland"
+ SWI_peace_at_switzerland_desc:0 "By enacting a non-agression pact with our fellow European Union members we can guarantee the continuous stage of Swiss Stability."
+ SWI_german_trade_deals:0 "German Trade Deals"
+ SWI_german_trade_deals_desc:0 "Our relations with our northen neighbors should increase as we make more trade treaties with them."
+ 
+ ### Tooltip
+ 
+ tooltip_SWI_seek_eu_membership:0 "§Y[ROOT.GetNameWithFlag]§! invests in the European Single Market: §Y[EUU.GetFlag] European Union Leader of Trade Policy§! (in this order §YPresident of the European Commission§!, §YPresident of the European Council§!, §YPresident of the European Parliament§!) gets an §YInternational Investment§! from §Y[ROOT.GetNameWithFlag]§!.\n"
+ tooltip_SWI_european_investment_opportunities:0 "§Y[EUU.GetFlag] European Union Leader of Trade Policy§! (in this order §YPresident of the European Commission§!, §YPresident of the European Council§!, §YPresident of the European Parliament§!) invests in §Y[ROOT.GetNameWithFlag]§!.\n"

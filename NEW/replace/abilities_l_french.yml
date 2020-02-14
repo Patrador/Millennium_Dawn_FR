@@ -51,3 +51,15 @@
  UNLOCK_ABILITY_SIEGE_ARTILLERY:0 "Débloquer la capacité : §YArtillerie de siègey§!"
  UNLOCK_ABILITY_RELENTLESS_ASSAULT:0 "Débloquer la capacité : §YAttaque incessante§!"
  UNLOCK_ABILITY_GUERILLA_WARFARE:0 "Débloquer la capacité : §YGuerre de guerilla§!"
+ 
+ ABILITY_ARMORED_SPEARHEAD:0 "Fer de lance blindé"
+ ABILITY_ARMORED_SPEARHEAD_DESC:0 "En utilisant nos unités blindées, nous pouvons nous frayer un chemin à travers les défenses ennemies."
+ ABILITY_FLEXIBILE_DEFFENSE:0 "Défense flexible"
+ ABILITY_FLEXIBILE_DEFFENSE_DESC:0 "Notre armée est actuellement en train de se retrancher contre l'ennemi. Cependant, ils ont commencé à tester nos défenses. Il est peut-être dans notre intérêt de commencer à être plus flexible dans notre position de défense."
+ ABILITY_WELL_PNANNED_ATTACK:0 "Attaque bien planifiée"
+ ABILITY_WELL_PNANNED_ATTACK_DESC:0 "Une attaque bien planifiée donnera presque toujours de bons résultats."
+ ABILITY_DEEP_BATTLE:0 "Bataille en profondeur"
+ ABILITY_DEEP_BATTLE_DESC:0 "La profondeur de la bataille est très importante en dehors de la ligne de contact principale. Perturber les lignes de communication, affaiblir les points forts et les vaincre sur les flancs peut rapidement transformer un combat linéaire en une bataille en profondeur."
+ ABILITY_INFILTRATION_ASSULT:0 "Attaque par infiltration"
+ ABILITY_INFILTRATION_ASSULT_DESC:0 "Infiltrer les lignes ennemies permettrait de perturber et de vaincre facilement l'ennemi par derrière."
+ 

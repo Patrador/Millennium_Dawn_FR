@@ -135,3 +135,4 @@
  TRADE_CONVOYS_ESTIMATED_OVER_SEA_DESC:0 "Nous pouvons estimer qu'importer $NUM|H$£resources_strip|$FRAME$ $RES|H$ va nécessiter $CON|H$£convoy_texticon convois."
  TRADE_CONVOYS_ESTIMATED_OVER_LAND_DESC:0 "Ce commerce peut être fait par voie de terre. Aucun convoi n'est nécessaire."
  NOT_TRADING_WITH_COUNTRY:0 "Nous ne faisons pas de commerce avec @$TAG$$COUNTRY|H$"
+ 

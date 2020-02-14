@@ -212,6 +212,17 @@
  AC_construction_target_MIC_decision10:0 "[From.GetName] is constructing Military Industry in [From.From.GetName]"
  AC_construction_target_MIC_decision10_desc:0 "Right click to see the target state."
  
+ AC_construction_RAD_decision1:0 "[From.GetName] is constructing a Intelligence Station in [From.From.GetName]"
+ AC_construction_RAD_decision1_desc:0 "Right click to see the target state."
+ AC_construction_RAD_decision2:0 "[From.GetName] is constructing a Intelligence Station in [From.From.GetName]"
+ AC_construction_RAD_decision2_desc:0 "Right click to see the target state."
+ AC_construction_RAD_decision3:0 "[From.GetName] is constructing a Intelligence Station in [From.From.GetName]"
+ AC_construction_RAD_decision3_desc:0 "Right click to see the target state."
+ AC_construction_RAD_decision4:0 "[From.GetName] is constructing a Intelligence Station in [From.From.GetName]"
+ AC_construction_RAD_decision4_desc:0 "Right click to see the target state."
+ AC_construction_RAD_decision5:0 "[From.GetName] is constructing a Intelligence Station in [From.From.GetName]"
+ AC_construction_RAD_decision5_desc:0 "Right click to see the target state."
+
  AC_construction_opinion:0 "Construction projects"
  AC_construction_opinion1:0 "Construction projects"
  AC_construction_opinion2:0 "Construction projects"
@@ -233,15 +244,15 @@
  AC_construction_target_CIC_decision:0 "[From.GetName]: Constructing [From.AC_GetConstructionType]."
  AC_construction_target_CIC_decision_desc:0 "Selecting this mission will cancel the construction project.\n\nRight click to see the target state."
  
- AC_construction_INF:0 "Infrastructure\n\n§YCost per building:§! §R$2.5 Billion§!"
- AC_construction_AIR:0 "Air Base\n\n§YCost per building:§! §R$1.5 Billion§!"
- AC_construction_AA:0 "SAM-Site\n\n§YCost per building:§! §R$1.5 Billion§!"
- AC_construction_RAD:0 "Intelligence Station\n\n§YCost per building:§! §R$1.5 Billion§!"
+ AC_construction_INF:0 "Infrastructure\n\n§YBase cost per building:§! §R$2.5 Billion§!"
+ AC_construction_AIR:0 "Air Base\n\n§YBase cost per building:§! §R$1.5 Billion§!"
+ AC_construction_AA:0 "SAM-Site\n\n§YBase cost per building:§! §R$1.5 Billion§!"
+ AC_construction_RAD:0 "Intelligence Station\n\n§YBase cost per building:§! §R$1.5 Billion§!"
  
- AC_construction_MIC:0 "Military Industry\n\n§YCost per building:§! §R$6 Billion§!"
- AC_construction_CIC:0 "Civilian Industry\n\n§YCost per building:§! §R$6 Billion§!"
- AC_construction_NIC:0 "Naval Yard\n\n§YCost per building:§! §R$6 Billion§!"
- AC_construction_REF:0 "Biofuel Refinery\n\n§YCost per building:§! §R$1 Billion§!"
+ AC_construction_MIC:0 "Military Industry\n\n§YBase cost per building:§! §R$6 Billion§!"
+ AC_construction_CIC:0 "Civilian Industry\n\n§YBase cost per building:§! §R$6 Billion§!"
+ AC_construction_NIC:0 "Naval Yard\n\n§YBase cost per building:§! §R$6 Billion§!"
+ AC_construction_REF:0 "Biofuel Refinery\n\n§YBase cost per building:§! §R$1 Billion§!"
  
  AC_assigned_factories_button_tt:0 "Select how many of your civilian factories you want to assign to this construction project.\n\n§YFactories available for projects:§! §G[?Root.num_of_civilian_factories_available_for_projects]§!\n\n§LShift-click to add or remove 5.§!"
  
@@ -267,8 +278,6 @@
  
  AC_assist_repair_button_text:0 "Assist Repair"
  AC_assist_repair_button_tt:0 "Assist this country in building repairs.\n\n§YPolitical power daily gain:§! §R-1§!\n\n§YDuration:§!§! §G180 days\n\n§LYou can only assist one country at a time with repairs.\n\nYou can cancel repair assistance by clicking this button or through the decisions tab at any time. There is a one day cooldown before you can re-enable it.§!"
-
- AC_construction_opinion:0 "Construction projects"
  
  AC_event.1.t:0 "Investment Offer from [From.GetNameWithFlag]"
  AC_event.1.d:0 "[From.GetName] proposes to construct [?From.AC_build_amount]x [From.AC_GetConstructionType] in [AC_state_event_target.GetName].\n\nThe full project cost is estimated at $[?From.AC_build_cost] billion. [From.GetName] is offering us a deal whereby we contribute 25% of the construction sum. The [From.GetAdjectiveCap] will gain both influence and profits from project."

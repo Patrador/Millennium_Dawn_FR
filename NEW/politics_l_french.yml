@@ -143,4 +143,5 @@
  PARTY_AND_IDEOLOGY_GROUP:0 "$PARTY|H$ ($GROUP|H$)"
  RELEASE_NATION_NOT_POSSIBLE:0 "§TAccorder l'indépendance à $COUNTRY|H$ en $LIST|H$§! est impossible.\n\n"
  RETURN_TERRITORY_NOT_POSSIBLE:0 "§TRétrocéder $LIST|H$ à $COUNTRY|H$§! est impossible.\n\n"
- RETURN_STATES_NOT_POSSIBLE_NOT_CONTROLLED:0 "Nous n'avons pas le contrôle des États en rouge." 
+ RETURN_STATES_NOT_POSSIBLE_NOT_CONTROLLED:0 "Nous n'avons pas le contrôle des États en rouge."
+ 
