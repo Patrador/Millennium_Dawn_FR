@@ -1,0 +1,5 @@
+﻿l_french:
+ internet_station: "Antenne mobile"
+ internet_station_plural: "Antennes mobiles"
+ internet_station_desc: "Antenne mobile"
+ modifier_production_speed_internet_station_factor: "Vitesse de construction de l'§Yantenne mobile§!"

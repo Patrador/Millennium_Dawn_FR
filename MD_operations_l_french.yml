@@ -1,0 +1,16 @@
+﻿l_french:
+ #Soleimani's Assassination
+ operation_usa_soleimani: "Assassiner Qasem Soleimani"
+ operation_usa_soleimani_desc: "Qasem Soleimani est l'un des principaux généraux de l'Iran, notre ennemi régional au Moyen-Orient. Depuis des décennies, l'Arabie saoudite et l'Iran se battent pour exercer une influence sur les nations du Moyen-Orient, et Soleimani soutient de nombreuses révoltes pro-iraniennes au Moyen-Orient. Si nous l'éliminons, nous pouvons assurer la domination de l'influence de l'Arabie saoudite dans la région."
+ usa_soleimani_infiltration: "Infiltrer l'emplacement actuel de Soleimani"
+ usa_soleimani_infiltration_desc: "Notre agence a étudié les emplacements précédents de Soleimani et l'infiltration des canaux de communication iraniens, et nous avons pu deviner l'endroit où Soleimani se rendra ensuite."
+ usa_soleimani_infiltration_outcome: "Nous avons réussi à infiltrer l'endroit où se trouve Soleimani en utilisant les informations fournies précédemment par notre agence."
+ usa_soleimani_infiltration_fail: "La zone que notre agence a « découverte » est un désert plat, il n'y a personne."
+ usa_soleimani_attack: "Ordonner la frappe de drones"
+ usa_soleimani_attack_desc: "Les frappes de drones sont le moyen moderne et efficace d'éliminer une cible. En utilisant au moins 50 drones, nous pouvons tuer Soleimani sans avoir besoin de forces terrestres importantes."
+ usa_soleimani_attack_outcome: "L'ordre du drone frappe la cible au bon moment et au bon endroit."
+ usa_soleimani_attack_fail: "Nos drones ont manqué leur cible, il a réussi à s'échapper sans dommages majeurs, et ses opérations se poursuivront dans tout le Moyen-Orient."
+ usa_soleimani_exfiltration: "Exfiltration via la frontière irakienne"
+ usa_soleimani_exfiltration_desc: "À partir de maintenant, l'Irak devrait être l'endroit le plus sûr d'où nos agents peuvent s'échapper d'Iran. Nous pouvons partir à travers Mehran et aller directement à Bagdhad, où nous pouvons prendre un avion sûr pour rentrer."
+ usa_soleimani_exfiltration_outcome: "Nous avons réussi à nous échapper en utilisant les bases américaines en Irak par la frontière irako-iranienne."
+ usa_soleimani_exfiltration_fail: "Nous avons été arrêtés par la police iranienne alors que nous nous rapprochions de la frontière."

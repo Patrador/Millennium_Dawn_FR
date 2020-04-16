@@ -1,0 +1,5 @@
+﻿l_french:
+ BUY_EQUIPMENT_TOOLTIP: "Acheter du matériel [From.GetAuAlaAlNP] [From.GetName]."
+ BUY_EQUIPMENT_TOOLTIP_DELAYED: "§GNÉCESSITE :"
+
+ EP_COST_TOOLTIP: "Prix pour acheter ce matériel"

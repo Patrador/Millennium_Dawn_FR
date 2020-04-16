@@ -1,0 +1,9 @@
+﻿l_french:
+ ROCKETSITE_CAPACITY_OK:0 "Ce site de batterie de défense aérienne est pleinement opérationnel et a $CURR|H$ sur un maximum de $MAX|H$ missiles."
+ ROCKETSITE_CAN_PRODUCE:0 "\n§gLe dépassement de la capacité limitera l'efficacité des missiles et arrêtera la production de nouveaux missiles sur ce site.§!"
+ ROCKETSITE_CAPACITY_FULL:0 "Ce site de batterie de défense aérienne a une efficacité de $PERC|%0R$ en raison du trop grand nombre de missiles en stock."
+ ROCKETSITE_STOPPED_PRODUCTION:0 "\n§RAucun autre missile ne sera produit tant que la capacité sera au maximum.§!"
+ AIR_SHOW_ROCKETSITES:0 "Sites de batteries de défense aérienne"
+ AIR_BASE_RIGHT_CLICK_REASON_ROCKET_SITE:0 "§R$COUNT|H$ escadres aériennes ne peuvent pas être transférées entre les sites de batteries de défense aérienne.§!"
+ rocket_site:0 "Site de batterie de défense aérienne"
+ rocket_site_plural:0 "Sites de batterie de défense aérienne"
