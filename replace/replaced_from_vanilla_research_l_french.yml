@@ -1,6 +1,6 @@
 ﻿l_french:
- infantry_weapons2:0 "Small Arms 1985"
- infantry_weapons2_desc:1 "Small Arms represent the equipment employed by Rifle Squads, such as Assault Rifles, Marksman Rifles, Sniper Rifles, Grenade-Launchers, Recoilless Rifles, Light Machine Guns and Body Armor."
+ infantry_weapons2:0 "Armes légères 1985"
+ infantry_weapons2_desc:1 "Les armes légères représentent l'équipement utilisé par les escadrons de tireurs, comme les fusils d'assaut, les fusils de tireur d'élite, les fusils de précision, les lance-grenades, les fusils sans recul, les mitrailleuses légères et les gilets pare-balles."
  support_folder:0 "Bataillons de soutien"
  armour_folder:0 "Véhicules"
  armour_folder_desc:0 "Véhicules blindés, chars et leurs variantes."
