@@ -93,17 +93,17 @@
  MD4_election.5.a: "[show_biggest_party_elect] ([show_biggest_elect_percentage]) will try"
  MD4_election.5.b: "[show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]) will try"
 
- News_MD4_election.0.t: "Élection [From.GetAuEnANP]] [From.GetName] : [From.GetLeader] est réélu"
+ News_MD4_election.0.t: "Élections [From.GetAuEnANP] [From.GetName] : [From.GetLeader] est réélu"
  News_MD4_election.0.d: "[From.GetLeader] [From.GetDuDelaDelPartiPouv] [From.GetRulingParty] ([From.GetRulingIdeology]) a vaincu tous les candidats, et poursuivra un autre mandat en tant que président [From.GetAdjMS]."
- News_MD4_election.0.a: "D'accord"
+ News_MD4_election.0.a: "D'accord."
 
- News_MD4_election.1.t: "Élection [From.GetAuEnANP]] [From.GetName] : [From.GetLeader] forme un nouveau gouvernement"
+ News_MD4_election.1.t: "Élections [From.GetAuEnANP] [From.GetName] : [From.GetLeader] forme un nouveau gouvernement"
  News_MD4_election.1.d: "[From.GetLeader] [From.GetDuDelaDelPartiPouv] [From.GetRulingParty] ([From.GetRulingIdeology]) est sorti gagnant des élections, et avec l'appui d'autres partis au sein du gouvernement est maintenant chargé de faire avancer [From.GetLeLaLNP] [From.GetName]."
- News_MD4_election.1.a: "D'accord"
+ News_MD4_election.1.a: "D'accord."
 
- News_MD4_election.2.t: "Élection [From.GetAuEnANP]] [From.GetName] : [From.GetLeader] gagne dans la surprise !"
+ News_MD4_election.2.t: "Élections [From.GetAuEnANP] [From.GetName] : [From.GetLeader] gagne dans la surprise !"
  News_MD4_election.2.d: "[From.GetLeader] [From.GetDuDelaDelPartiPouv] [From.GetRulingParty] ([From.GetRulingIdeology]) a réussi ce qui semblait impossible en battant à lui seul le gouvernement en place. La formation d'un gouvernement majoritaire à lui seul a été victorieuse aux élections, et il est maintenant chargé de faire avancer [From.GetLeLaLNP] [From.GetName]."
- News_MD4_election.2.a: "D'accord"
+ News_MD4_election.2.a: "D'accord."
 
  News_MD4_election.2.t: "[From.GetAdjective] Election: Scandal as [From.GetLeader] suspends elections!"
  News_MD4_election.2.d: "Just as the opposition was looking to win in the election, [From.GetLeader] ([From.GetRulingIdeology]) suspended the final counting of votes and stated that \"the opposition had colluded with hostile foreign operatives to steal the election away from the [From.GetAdjective] people\" tension is rising in [From.GetName] as [From.GetLeader] looks likely to lead the nation for another term without a democratic mandate."
