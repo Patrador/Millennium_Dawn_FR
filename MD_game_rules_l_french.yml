@@ -20,6 +20,10 @@
  RULE_DISABLE_ANTI_BULLY: "Désactiver la lassitude de guerre"
  RULE_YES_ANTI_BULLY_DESC: "Désactive le système de lassitude de guerre, ce qui vous permet d'être un belliciste sans pénalités"
  RULE_NO_ANTI_BULLY_DESC: "Le système de lassitude de guerre sera activé"
+ 
+ RULE_SALAFIST_BRANCH: "Activer la branche salafiste"
+ RULE_YES_SALAFIST_BRANCH_DESC: "Active la branche salafiste dans l'arbre générique de toutes les nations"
+ RULE_NO_SALAFIST_BRANCH_DESC: "Active la branche salafiste dans l'arbre générique des nations sunnites"
 
  RULE_MD_CHAOS_MODE: "Activer le mode « MD Chaos » (Beta v0.1)"
  RULE_YES_MD_CHAOS_MODE_DESC: "Active le mode « MD Chaos »."
@@ -32,6 +36,10 @@
  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y(Multijoueur)§! Autoriser l'activation / la désactivation des décisions de triche à l'échelle mondiale"
  RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Optionnel)§!\n\nActivation / désactivation des décisions de triche à l'échelle mondiale activée.\n§YREMARQUE :§! Toute nation dans le monde peut activer ou désactiver les décisions de triche, et les effets sont §Yglobaux§!. Un événement apparaîtra pour indiquer quel pays l'active ou le désactive.\n§YVous devriez vous assurer que vous êtes autorisé à utiliser la décision dans une partie multijoueur !§!\n\n§YREMARQUE :§! Vous devez également activer la règle de jeu « Autoriser les décisions de triche » si vous souhaitez tricher !"
  RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y(Optionnel)§!\n\nActivation / désactivation des décisions de triche à l'échelle mondiale désactivée.\n§YREMARQUE :§! Toute nation dans le monde peut activer ou désactiver les décisions de triche, et les effets sont §Yglobaux§!. Un événement apparaîtra pour indiquer quel pays l'active ou le désactive.\n§YVous devriez vous assurer que vous êtes autorisé à utiliser la décision dans une partie multijoueur !§!\n\n§YREMARQUE :§! Vous devez également activer la règle de jeu « Autoriser les décisions de triche » si vous souhaitez tricher !"
+ 
+ RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Permettre le rappel des forces d'intervention"
+ RULE_YES_ALLOW_INTERVENTION_FORCES: "§YREMARQUE : Ceci n'est pas équilibré et n'est qu'une mesure temporaire pour faire ce que vous souhaitez. Les problèmes relatifs aux forces d'interventions et autres ne nous concernent pas.§! Permet de rappeler les forces d'intervention des pays.\n"
+ RULE_NO_ALLOW_INTERVENTION_FORCES: "§YPar défaut§!. Ne vous permet pas de rappeler les forces d'intervention des conflits étrangers."
 
  RULE_OPTION_MD_DEFAULT: "Comportement par défaut de l'IA"
  RULE_OPTION_MD_DEFAULT_AI_DESC: "L'IA choisira des priorités au hasard en mettant légèrement l'accent sur les choix historiques. Le statut d'État mondial et de pays aura une légère incidence sur les choix."
@@ -125,6 +133,8 @@
 
  #Saudi Arabia
  SAU_AI_BEHAVIOR: "@SAU Royaume d'Arabie saoudite"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Djihad mondial - Le CCG d'abord"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "L'Arabie saoudite va tenter de réformer son économie et d'unifier le CCG en tant que super-État. Ensuite, la monarchie saoudienne sera renversée par un soulèvement d'Al-Qaïda, ce qui entraînera la création d'un État islamique radical qui cherche à répandre son idéologie fondamentaliste par des moyens violents."
  RULE_OPTION_GLOBAL_JIHAD: "Djihad mondial"
  RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "La monarchie saoudienne sera renversée par un soulèvement d'Al-Qaïda, ce qui entraînera la création d'un État islamique radical qui cherche à répandre son idéologie fondamentaliste par des moyens violents."
  RULE_OPTION_ISLAMIC_AWAKENING: "L'éveil islamique"

@@ -1,0 +1,18 @@
+﻿l_french:
+ EMBARGO_COUNTRY_TITLE: "Embargo"
+ EMBARGO_COUNTRY_ACTION_DESC: "Un embargo sur ce pays nous amènera à ne plus entretenir de relations commerciales ou d'autres relations économiques avec ce pays."
+ EMBARGO_TOOLTIP: "N'a pas d'embargo avec [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§!\n"
+ EMBARGO_SEND_DESC: "[Root.EMBARGO_SCRIPTED_LOCALIZATION]"
+ EMBARGO_SEND_DESC_USA: "Un embargo contre [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§! réduira l'influence et l'opinion sur le commerce avec [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§! de §R100§!. S'ils ont également l'§YUSAID§!, cela sera révoqué.\n\nCela n'empêche pas le pays de trouver des ressources par d'autres moyens..."
+ EMBARGO_SEND_DESC_EVERYONE: "Un embargo contre [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§! réduira l'influence et l'opinion sur le commerce avec [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§! de §R100§!.\n\nCela n'empêche pas le pays de trouver des ressources par d'autres moyens..."
+
+ LIFT_EMBARGO_COUNTRY_TITLE: "Lever l'embargo"
+ LIFT_EMBARGO_COUNTRY_ACTION_DESC: "La levée de l'embargo sur ce pays nous permettra de normaliser les relations économiques et les liens commerciaux."
+ LIFT_EMBARGO_TOOLTIP: "Lève l'embargo sur [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§!"
+ LIFT_EMBARGO_SEND_DESC: "Lever l'embargo sur [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§! augmentera l'influence et les relations commerciales de §G100§!. Cependant, [THIS.GetLeLaLNP] §Y[This.GetNameWithFlag]§! va recevoir §R-50§! d'opinion en raison de l'embargo récent.\n"
+ ##Taken from Yard1's mod
+ RECALL_VOLUNTEERS_TITLE: "Rappeler les forces d'intervention"
+ RECALL_VOLUNTEERS_ACTION_DESC: "À un moment donné, nous pouvons choisir de rappeler nos forces d'intervention."
+ RECALL_VOLUNTEERS_TOOLTIP: "[THIS.GetLeLaLNPCap] §Y[This.GetNameWithFlag]§! §Rdoit disposer de forces d'intervention actives que nous pouvons retirer.§!"
+ RECALL_VOLUNTEERS_TOOLTIP_G: "[THIS.GetLeLaLNPCap] §Y[This.GetNameWithFlag]§! doit disposer de forces d'intervention actives que nous pouvons retirer."
+ RECALL_VOLUNTEERS_SEND_DESC: "Le combat [THIS.GetDuDelaDelNP] §Y[This.GetNameWithFlag]§! n'est plus notre combat. Il est temps que nous retirions nos forces du conflit.\n\n§YCette action permettra de retirer nos forces d'intervention [THIS.GetDuDelaDelNP] §Y[This.GetNameWithFlag]§!"

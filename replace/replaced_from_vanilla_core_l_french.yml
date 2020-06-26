@@ -26,7 +26,7 @@
  PRECALC_NAVAL_DIST:0 "Soudoiement des diplomates..."
  INIT_MAP_LOGIC:0 "Accusation de la Chine..."
  INIT_GAMESTATE:0 "Ignorance de la corruption..."
- FLEET_NAME_SOV:0 "Groupe naval russe $NUMBER$"
+ FLEET_NAME_SOV:0 "Groupe naval russe $NUMBER$."
  LEADER_ENDLESS_CAPACITY_DESC:0 "$NAME$ est un général et n'a pas de limite de commandement."
  CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT:1 "$NAME|H$ est déjà affecté à une autre §Garmée§! qui a été envoyée en tant que §Yforce d'intervention§!.\nÊtes-vous sûr de vouloir §Rréassigner§! le §Gcommandant§! ?"
  FUEL_DAILY_GAIN_FROM_STATES:0 "Du biocarburant : $NUM|H$"

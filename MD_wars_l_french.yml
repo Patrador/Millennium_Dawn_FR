@@ -1,7 +1,8 @@
 ﻿l_french:
  WAR_NAME_SYR_FSA: "Guerre civile syrienne"
+ WAR_NAME_SYR_NUS: "Guerre civile syrienne"
  WAR_NAME_AGF_SSU: "Guerre civile sud-soudanaise"
- WAR_NAME_AQY_YEM: "Insurrection d'Al-Qaïda au Yémen démocratique"
+ WAR_NAME_AQY_YEM: "Insurrection d'Al-Qaïda au Yémen de Hadi"
  WAR_NAME_AQY_HOU: "Insurrection d'Al-Qaïda au Yémen houthi"
  WAR_NAME_HOU_YEM: "Guerre civile yéménite"
  WAR_NAME_TAL_AFG: "Guerre en Afghanistan"
@@ -42,3 +43,4 @@
  WAR_NAME_BRM_SHN: "Conflit interne au Myanmar"
  WAR_NAME_BRM_WAA: "Conflit interne au Myanmar"
  WAR_NAME_KEN_SHB: "Opération Linda Nchi"
+ WAR_NAME_LBA_GNA: "Guerre civile libyenne"

@@ -105,6 +105,8 @@
  free_license: "License gratuite"
  huge_increase: "Énorme augmentation de l'opinion"
  embargo: "Embargo"
+ embargo_opinion: "Nous a imposé un embargo !"
+ recently_embargoed: "Nous a récemment imposé un embargo"
  backed_our_cause: "A soutenu notre cause"
  betrayed_our_cause: "A trahi notre cause"
  refused_alliance: "Alliance refusée"
